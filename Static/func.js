@@ -19,3 +19,36 @@ function myFunction() {
         header.classList.remove("sticky");
     }
 };
+
+function mouseevent(){
+    var but=document.getElementById("prev");
+    but.style.backgroundColor="aqua";
+    but.style.color="black";
+       
+    
+    
+};
+
+function mouseleave(){
+    var but=document.getElementById("prev");
+    but.style.backgroundColor="white";
+    but.style.color="blue"
+    
+
+};
+function mouseevent1(){
+    var but=document.getElementById("next");
+    but.style.backgroundColor="aqua";
+    but.style.color="black";
+       
+    
+    
+};
+
+function mouseleave1(){
+    var but=document.getElementById("next");
+    but.style.backgroundColor="white";
+    but.style.color="blue"
+    
+
+};

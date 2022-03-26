@@ -74,6 +74,18 @@ li ul a:hover {
     color: black;
 }
 
+pre{
+    background-color: #242527;
+    border: 1px solid black;
+    color: navajowhite;
+}
+
+code{
+    
+    color: #f70018;
+}
+
+
 aside {
     position: absolute;
     pointer-events: auto;
@@ -92,5 +104,5 @@ aside {
 
 
 .newheight {
-    height: 88%;
+    height: 87.5%;
 }
